@@ -1,3 +1,2 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Created an application using react to display the details of people who have birthdays on that particular day.
+Extracted the data of different people from data file. 
